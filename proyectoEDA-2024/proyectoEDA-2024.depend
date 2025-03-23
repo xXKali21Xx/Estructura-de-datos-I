@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1729123916 source:z:\code\proyectoeda-2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"ral.h"
+	"rac.h"
+	"rs.h"
+	"CompEstrs.h"
+
+1728517005 z:\code\proyectoeda-2024\prestador.h
+	<string.h>
+
+1729124912 z:\code\proyectoeda-2024\rs.h
+	<string.h>
+	"prestador.h"
+
+1729124715 z:\code\proyectoeda-2024\compestrs.h
+
+1729122836 z:\code\proyectoeda-2024\ral.h
+	"prestador.h"
+
+1729123350 z:\code\proyectoeda-2024\rac.h
+	"prestador.h"
+
+1729779806 source:c:\users\alber\onedrive\escritorio\proyectoeda-2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"ral.h"
+	"rac.h"
+	"rs.h"
+	"CompEstrs.h"
+
+1728517005 c:\users\alber\onedrive\escritorio\proyectoeda-2024\prestador.h
+	<string.h>
+
+1729797124 c:\users\alber\onedrive\escritorio\proyectoeda-2024\ral.h
+	"prestador.h"
+
+1729796612 c:\users\alber\onedrive\escritorio\proyectoeda-2024\rac.h
+	"prestador.h"
+
+1729124912 c:\users\alber\onedrive\escritorio\proyectoeda-2024\rs.h
+	<string.h>
+	"prestador.h"
+
+1729785150 c:\users\alber\onedrive\escritorio\proyectoeda-2024\compestrs.h
+

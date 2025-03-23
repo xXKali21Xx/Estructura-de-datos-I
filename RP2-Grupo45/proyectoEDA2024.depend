@@ -1,0 +1,314 @@
+# depslib dependency file v1.0
+1724518993 source:c:\users\kali\desktop\proyectoeda2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LSO.h"
+
+1724519215 c:\users\kali\desktop\proyectoeda2024\lso.h
+
+1724680964 source:c:\users\alber\onedrive\escritorio\proyectoeda2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LSO.h"
+
+1724682137 c:\users\alber\onedrive\escritorio\proyectoeda2024\lso.h
+
+1724872762 source:z:\code\proyectoeda2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+
+1724873039 z:\code\proyectoeda2024\lso.h
+	<string.h>
+	"prestador.h"
+
+1724812537 z:\code\proyectoeda2024\prestador.h
+	<string.h>
+
+1725463165 source:z:\code\p1-grupo45\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+
+1724812537 z:\code\p1-grupo45\prestador.h
+	<string.h>
+
+1725465101 z:\code\p1-grupo45\lso.h
+	<string.h>
+	"prestador.h"
+
+1726100777 source:z:\code\rp1-grupo45\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+	"LSOBT.h"
+	"ABB.h"
+	"CompEstrs.h"
+
+1726099497 z:\code\rp1-grupo45\prestador.h
+	<string.h>
+
+1726101359 z:\code\rp1-grupo45\lso.h
+	<string.h>
+	"prestador.h"
+
+1726101359 z:\code\rp1-grupo45\lsobt.h
+	<math.h>
+	<string.h>
+	"prestador.h"
+
+1726099497 z:\code\rp1-grupo45\abb.h
+
+1726100777 z:\code\rp1-grupo45\compestrs.h
+
+1726100777 source:c:\users\kali\desktop\p2-grupo45\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+	"LSOBT.h"
+	"ABB.h"
+	"CompEstrs.h"
+
+1726099497 c:\users\kali\desktop\p2-grupo45\prestador.h
+	<string.h>
+
+1726101359 c:\users\kali\desktop\p2-grupo45\lso.h
+	<string.h>
+	"prestador.h"
+
+1726756818 c:\users\kali\desktop\p2-grupo45\lsobt.h
+	<math.h>
+	<string.h>
+	"prestador.h"
+
+1727048329 c:\users\kali\desktop\p2-grupo45\abb.h
+	"prestador.h"
+
+1726928935 c:\users\kali\desktop\p2-grupo45\compestrs.h
+
+1726100777 source:c:\users\alber\onedrive\escritorio\p2-grupo45\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+	"LSOBT.h"
+	"ABB.h"
+	"CompEstrs.h"
+
+1726099497 c:\users\alber\onedrive\escritorio\p2-grupo45\prestador.h
+	<string.h>
+
+1726101359 c:\users\alber\onedrive\escritorio\p2-grupo45\lso.h
+	<string.h>
+	"prestador.h"
+
+1726756818 c:\users\alber\onedrive\escritorio\p2-grupo45\lsobt.h
+	<math.h>
+	<string.h>
+	"prestador.h"
+
+1726757571 c:\users\alber\onedrive\escritorio\p2-grupo45\abb.h
+	"prestador.h"
+
+1726100777 c:\users\alber\onedrive\escritorio\p2-grupo45\compestrs.h
+
+1727062258 source:z:\code\p2-grupo452\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+	"LSOBT.h"
+	"ABB.h"
+	"CompEstrs.h"
+
+1726099497 z:\code\p2-grupo452\prestador.h
+	<string.h>
+
+1726101359 z:\code\p2-grupo452\lso.h
+	<string.h>
+	"prestador.h"
+
+1727057844 z:\code\p2-grupo452\lsobt.h
+	<math.h>
+	<string.h>
+	"prestador.h"
+
+1727062258 z:\code\p2-grupo452\abb.h
+	"prestador.h"
+
+1727061853 z:\code\p2-grupo452\compestrs.h
+
+1727100119 source:c:\users\alber\onedrive\escritorio\p2-grupo452\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+	"LSOBT.h"
+	"ABB.h"
+	"CompEstrs.h"
+
+1726099497 c:\users\alber\onedrive\escritorio\p2-grupo452\prestador.h
+	<string.h>
+
+1726101359 c:\users\alber\onedrive\escritorio\p2-grupo452\lso.h
+	<string.h>
+	"prestador.h"
+
+1727057844 c:\users\alber\onedrive\escritorio\p2-grupo452\lsobt.h
+	<math.h>
+	<string.h>
+	"prestador.h"
+
+1727099637 c:\users\alber\onedrive\escritorio\p2-grupo452\abb.h
+	"prestador.h"
+
+1727098451 c:\users\alber\onedrive\escritorio\p2-grupo452\compestrs.h
+
+1727217161 source:c:\users\gamers\onedrive\desktop\p2-grupo452\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+	"LSOBT.h"
+	"ABB.h"
+	"CompEstrs.h"
+
+1726099497 c:\users\gamers\onedrive\desktop\p2-grupo452\prestador.h
+	<string.h>
+
+1726101359 c:\users\gamers\onedrive\desktop\p2-grupo452\lso.h
+	<string.h>
+	"prestador.h"
+
+1727057844 c:\users\gamers\onedrive\desktop\p2-grupo452\lsobt.h
+	<math.h>
+	<string.h>
+	"prestador.h"
+
+1727143885 c:\users\gamers\onedrive\desktop\p2-grupo452\abb.h
+	"prestador.h"
+
+1727218143 c:\users\gamers\onedrive\desktop\p2-grupo452\compestrs.h
+
+1727879748 source:c:\users\gamers\onedrive\desktop\p2-grupo45\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+	"LSOBT.h"
+	"ABB.h"
+	"CompEstrs.h"
+
+1726099497 c:\users\gamers\onedrive\desktop\p2-grupo45\prestador.h
+	<string.h>
+
+1726101359 c:\users\gamers\onedrive\desktop\p2-grupo45\lso.h
+	<string.h>
+	"prestador.h"
+
+1727057844 c:\users\gamers\onedrive\desktop\p2-grupo45\lsobt.h
+	<math.h>
+	<string.h>
+	"prestador.h"
+
+1728141277 c:\users\gamers\onedrive\desktop\p2-grupo45\abb.h
+	"prestador.h"
+
+1728141454 c:\users\gamers\onedrive\desktop\p2-grupo45\compestrs.h
+
+1729484916 source:c:\users\alber\onedrive\escritorio\rp2-grupo45\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+	"LSOBT.h"
+	"ABB.h"
+	"CompEstrs.h"
+
+1726099497 c:\users\alber\onedrive\escritorio\rp2-grupo45\prestador.h
+	<string.h>
+
+1728309988 c:\users\alber\onedrive\escritorio\rp2-grupo45\lso.h
+	<string.h>
+	"prestador.h"
+
+1729519575 c:\users\alber\onedrive\escritorio\rp2-grupo45\lsobt.h
+	<math.h>
+	<string.h>
+	"prestador.h"
+
+1729483556 c:\users\alber\onedrive\escritorio\rp2-grupo45\abb.h
+	"prestador.h"
+
+1729518326 c:\users\alber\onedrive\escritorio\rp2-grupo45\compestrs.h
+
+1728309960 source:c:\users\gamers\onedrive\desktop\rp2-grupo45\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+	"LSOBT.h"
+	"ABB.h"
+	"CompEstrs.h"
+
+1726099497 c:\users\gamers\onedrive\desktop\rp2-grupo45\prestador.h
+	<string.h>
+
+1728309988 c:\users\gamers\onedrive\desktop\rp2-grupo45\lso.h
+	<string.h>
+	"prestador.h"
+
+1727057844 c:\users\gamers\onedrive\desktop\rp2-grupo45\lsobt.h
+	<math.h>
+	<string.h>
+	"prestador.h"
+
+1728311124 c:\users\gamers\onedrive\desktop\rp2-grupo45\abb.h
+	"prestador.h"
+
+1728310688 c:\users\gamers\onedrive\desktop\rp2-grupo45\compestrs.h
+
+1728309960 source:c:\users\gamers\onedrive\desktop\ent\rp2-grupo45\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prestador.h"
+	"LSO.h"
+	"LSOBT.h"
+	"ABB.h"
+	"CompEstrs.h"
+
+1726099497 c:\users\gamers\onedrive\desktop\ent\rp2-grupo45\prestador.h
+	<string.h>
+
+1728309988 c:\users\gamers\onedrive\desktop\ent\rp2-grupo45\lso.h
+	<string.h>
+	"prestador.h"
+
+1727057844 c:\users\gamers\onedrive\desktop\ent\rp2-grupo45\lsobt.h
+	<math.h>
+	<string.h>
+	"prestador.h"
+
+1729483556 c:\users\gamers\onedrive\desktop\ent\rp2-grupo45\abb.h
+	"prestador.h"
+
+1729484562 c:\users\gamers\onedrive\desktop\ent\rp2-grupo45\compestrs.h
+
